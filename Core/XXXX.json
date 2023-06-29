@@ -1,0 +1,11 @@
+{ "storeHouse":
+    [
+
+    {"sourceName":"⚡矜持超级配置⚡","sourceUrl":"https://jihulab.com/XYSJ/LoveHaibaraAi/-/raw/main/Json/Normal.json"},
+
+    {"sourceName":"⚡矜持羞羞配置⚡","sourceUrl":"https://jihulab.com/XYSJ/LoveHaibaraAi/-/raw/main/Json/Abnormal.json"},
+
+    {"sourceName":"⚡矜持壁纸配置⚡","sourceUrl":"https://jihulab.com/XYSJ/LoveHaibaraAi/-/raw/main/Json/Wallpaper.json"}
+
+    ]
+}
