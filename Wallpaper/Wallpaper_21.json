@@ -1,0 +1,16 @@
+{
+    "spider": "https://jihulab.com/XYSJ/LoveHaibaraAi/-/raw/main/Wallpaper/Wallpaper",
+    "wallpaper": "https://jihulab.com/XYSJ/LoveHaibaraAi/-/raw/main/Wallpaper/Files/21.jpg",
+    "warningText": "⚡欢迎使用矜持先森的壁纸⚡",
+    "sites": [
+        {
+            "key": "Wallpaper",
+            "name": "🖼️┃Snowy┃矜持先森┃请去设置界面更换壁纸",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        }
+    ]
+    }
