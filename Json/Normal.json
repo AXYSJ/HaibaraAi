@@ -36,7 +36,6 @@
         {"name":"🛸┃巧技┃线路","url":"http://pandown.pro/tvbox/tvbox.json"},
         {"name":"🛸┃菜妮丝┃线路","url":"https://tvbox.cainisi.cf"},
         {"name":"🛸┃夜猫子┃线路","url":"https://d.looks.wang/我爱夜猫子"},
-        {"name":"🛸┃小苹果┃线路","url":"https://api.ys66.repl.co/?url=http://m35.grelighting.cn/a001.asp"},
         {"name":"🛸┃运输车１号┃线路","url":"https://weixine.net/ysc.json"},
         {"name":"🛸┃运输车２号┃线路","url":"https://cf.weixine.net/ysc.json"},
         {"name":"🛸┃运输车３号┃线路","url":"http://ysc.weixine.net:33"},
@@ -58,6 +57,7 @@
         {"name":"🚀┃小盒酷玩┃线路","url":"https://jihulab.com/blank7355005/box/-/raw/main/0.json"},
         {"name":"🚀┃ＭＧ影视┃线路","url":"http://43.155.64.249/TVbox/box.json"},
         {"name":"🚀┃星辰影视┃线路","url":"http://8.210.232.168/xc.json"},
+        {"name":"🚀┃老刘备┃线路","url":"https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json"},
         {"name":"🚀┃７７影视┃线路","url":"http://tvboxx.com.cn/tvbox/tv.json"},
         {"name":"🚀┃嫖一下┃线路","url":"https://www.0701.gq/tv"},
         {"name":"🚀┃二哈┃线路","url":"https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json"},
@@ -107,7 +107,7 @@
         {"name":"┃青苹果┃线路","url":"https://s2.pub/xpg"},
         {"name":"┃ｚｚｚ１┃线路","url":"https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json"},
         {"name":"┃元兴┃线路","url":"https://freed.yuanhsing.cf/TVBox/meowcf.json"},
-        {"name":"┃纸云烟┃线路",https://gitee.com/wdc558/TVBox/raw/master/Zhiyunyan.json},
+        {"name":"┃纸云烟┃线路","https://gitee.com/wdc558/TVBox/raw/master/Zhiyunyan.json"},
         {"name":"┃人人┃线路","url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"},
         {"name":"┃ＪＧ１┃线路","url":"https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt"},
         {"name":"┃ＪＧ２┃线路","url":"https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json"},
@@ -116,6 +116,7 @@
         {"name":"┃Yosakoii┃线路","url":"https://raw.iqiq.io/Yosakoii/Yosakoii.github.io/main/2023.json"},
         {"name":"┃喵影视Pro┃线路","url":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/tvbox.json"},
         {"name":"┃春风┃线路","url":"https://369936.xyz/web119"},
+        {"name":"🛸┃小苹果┃线路","url":"https://api.ys66.repl.co/?url=http://m35.grelighting.cn/a001.asp"},
         {"name":"┃刺桐┃线路","url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json"},
         */
 
