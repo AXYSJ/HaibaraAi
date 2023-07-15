@@ -50,7 +50,7 @@
         {"name":"🚀┃金榜影视┃线路","url":"https://wds.ecsxs.com/230989.json"},
         {"name":"🚀┃小小影视┃线路","url":"https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json"},
         {"name":"🚀┃不良帅┃线路","url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"},
-        {"name":"🚀┃业余分享┃线路","url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
+        {"name":"🚀┃业余打发┃线路","url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
         {"name":"🚀┃采集资源┃线路","url":"https://pan.shangui.cc/f/mPecb/采集.json"},
         {"name":"🚀┃花漾影视┃线路","url":"https://jihulab.com/blank7355005/hy/-/raw/main/hyys.json"},
         {"name":"🚀┃小盒酷玩┃线路","url":"https://jihulab.com/blank7355005/box/-/raw/main/0.json"},
@@ -123,12 +123,14 @@
          //其他线路类
         {"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
         {"name":"☁┃多多┃阿里云盘专线","url":"https://yydsys.top/duo/ali"}, 
-        {"name":"☁┃运输车┃阿里云盘专线","url":"https://gitee.com/lekanbox/App/raw/master/ali.json"},
+        {"name":"☁┃运输车┃阿里云盘专线","url":"https://gitee.com/lekanbox/App/raw/master/api.json"},
+        {"name":"☁┃业余打发┃阿里云盘专线","url":"https://pan.shangui.cc/f/4LBAF0/ali.json"},
 
 
 
         {"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
         {"name":"👶🏻┃夜猫子┃少儿线路","url":"https://d.looks.wang/夜猫子少儿频道"},
+        {"name":"👶🏻┃业余打发┃少儿线路","url":"https://pan.shangui.cc/f/8VDbIo/少儿频道.json"},
         {"name":"🅱┃云星日记┃Ｂ站线路","url":"http://itvbox.cc/tvbox/云星日记/bili.m3u8"},
 
 
