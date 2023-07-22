@@ -2,7 +2,7 @@
     "urls": 
     [
          //开头公告类
-        {"name":"🕛更新时间:2023/07/21","url":"🕛更新时间:2023/07/21"},
+        {"name":"🕛更新时间:2023/07/22","url":"🕛更新时间:2023/07/22"},
         {"name":"⚡ By:矜持先森 ⚡","url":"⚡ By:矜持先森 ⚡"},
         {"name":"📢:请保持软件为最新版本","url":"📢:请保持软件为最新版本"},
         {"name":"📢:否则配置线路可能加载失败","url":"📢:否则配置线路可能加载失败"},
@@ -70,6 +70,7 @@
         {"name":"🚀┃胖虎┃线路","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
         {"name":"✈️┃高天流云┃JS","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
         {"name":"✈️┃高天流云┃XYQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
+        {"name":"✈️┃高天流云┃XBPQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"},
         {"name":"✈️┃霜辉月明┃PY","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
         {"name":"✈️┃Lan同学┃线路","url":"https://lantongxue.cc/s.json"},
         {"name":"✈️┃VivoMax┃线路","url":"https://ghproxy.net/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},
