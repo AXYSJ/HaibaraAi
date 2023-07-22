@@ -49,6 +49,7 @@
         {"name":"🚀┃OwenTV┃线路","url":"https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json"},
         {"name":"🚀┃金榜影视┃线路","url":"https://wds.ecsxs.com/230989.json"},
         {"name":"🚀┃小小影视┃线路","url":"https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json"},
+        {"name":"🚀┃路人甲┃线路","url":"http://tvbox.dytt996.com/uploads/itvbox/yueguang.json"},
         {"name":"🚀┃不良帅┃线路","url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"},
         {"name":"🚀┃业余打发┃线路","url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
         {"name":"🚀┃采集资源┃线路","url":"https://pan.shangui.cc/f/mPecb/采集.json"},
@@ -68,7 +69,7 @@
         {"name":"🚀┃沃影视┃线路","url":"https://agit.ai/sejinan/app/raw/branch/box/1.m3u8"},
         {"name":"🚀┃胖虎┃线路","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
         {"name":"✈️┃高天流云┃JS","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
-        {"name":"✈️┃高天流云┃XBQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
+        {"name":"✈️┃高天流云┃XYQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
         {"name":"✈️┃霜辉月明┃PY","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
         {"name":"✈️┃Lan同学┃线路","url":"https://lantongxue.cc/s.json"},
         {"name":"✈️┃VivoMax┃线路","url":"https://ghproxy.net/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},
@@ -125,6 +126,7 @@
         {"name":"☁┃多多┃阿里云盘专线","url":"https://yydsys.top/duo/ali"}, 
         {"name":"☁┃多多┃阿里云盘专线","url":"https://cdn.yydsys.top/duo/ali"}, 
         {"name":"☁┃运输车┃阿里云盘专线","url":"https://gitee.com/lekanbox/App/raw/master/api.json"},
+        {"name":"☁┃影探┃阿里云盘专线","url":"http://www.lyyytv.cn/yt/yt.json"},
         {"name":"☁┃业余打发┃阿里云盘专线","url":"https://pan.shangui.cc/f/4LBAF0/ali.json"},
 
 
@@ -153,28 +155,9 @@
 
 
         {"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
-        {"name":"💎┃欧歌家庭线路","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&jar=index2&123&b=欧歌"},
-        {"name":"💎┃欧歌集合线路","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index&jar=index2&321&b=欧歌"},
-        {"name":"💎┃欧歌┃Xbiu+XYQ","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&b=欧歌"},
-        {"name":"💎┃欧歌┃JS","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=js&jar=js&b=欧歌"},
-        {"name":"💎┃欧歌┃PY","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=py&jar=py&b=欧歌"},
-        {"name":"💎┃欧歌┃B站+Alist3","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=a3&jar=a3&b=欧歌"},
-        {"name":"☁┃阿里扫码推送Token","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all&jar=all&b=欧歌"},
-        {"name":"☁┃阿里本地读取Token","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all2&jar=ou&b=欧歌"},
-        {"name":"☁┃阿里他人共享Token","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all3&jar=ou&b=欧歌"},
-
-
-
-        {"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
-        {"name":"💎┃白嫖小蚂蚁家庭线路","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&jar=index2&123&b=白嫖小蚂蚁"},
-        {"name":"💎┃白嫖小蚂蚁集合线路","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index&jar=index2&321&b=白嫖小蚂蚁"},
-        {"name":"💎┃白嫖小蚂蚁┃Xbiu+XYQ","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&b=白嫖小蚂蚁"},
-        {"name":"💎┃白嫖小蚂蚁┃JS","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=js&jar=js&b=白嫖小蚂蚁"},
-        {"name":"💎┃白嫖小蚂蚁┃PY","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=py&jar=py&b=白嫖小蚂蚁" },
-        {"name":"💎┃白嫖小蚂蚁┃B站+Alist3","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=a3&jar=a3&b=白嫖小蚂蚁"},
-        {"name":"☁┃阿里扫码推送Token","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all&jar=all&b=白嫖小蚂蚁"},
-        {"name":"☁┃阿里本地读取Token","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all2&jar=ou&b=白嫖小蚂蚁"},
-        {"name":"☁┃阿里他人共享Token","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all3&jar=ou&b=白嫖小蚂蚁"}
+        {"name":"💎┃欧歌家庭线路","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"},
+        {"name":"☁┃欧歌阿里云盘","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌"},
+        {"name":"💎┃欧歌学习集合","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌"}
 
 
 
