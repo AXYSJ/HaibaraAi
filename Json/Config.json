@@ -41,7 +41,6 @@
         {"name":"🛸┃荷城茶秀３号┃线路","url":"http://rihou.cc:99/荷城茶秀"},
         {"name":"🛸┃云星日记┃线路","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
         {"name":"🛸┃春盈天下┃线路","url":"https://wds.ecsxs.com/230989.json"},
-        {"name":"🛸┃神仙影视┃线路","url":"https://gitee.com/shenxian2023/immortal-film-and-television/raw/master/sx.json"},
         {"name":"🛸┃祥祥影视┃线路","url":"https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json"},
         {"name":"🛸┃业余打发┃线路","url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
         {"name":"🛸┃采集资源┃线路","url":"https://pan.shangui.cc/f/mPecb/采集.json"},
@@ -90,6 +89,7 @@
 
 
          /*慢速无效类
+        {"name":"🛸┃神仙影视┃线路","url":"https://gitee.com/shenxian2023/immortal-film-and-television/raw/master/sx.json"},
         {"name":"👑┃小胡１号┃线路✨","url":"https://xzam.cn/tv"}, 
         {"name":"👑┃小胡２号┃线路✨","url":"https://download.kstore.space/download/4180/xiaohu"},
         {"name":"🅱┃云星日记┃Ｂ站线路","url":"http://itvbox.cc/tvbox/云星日记/bili.m3u8"},
