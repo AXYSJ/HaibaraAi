@@ -1,1 +1,16 @@
-
+{
+    "spider": "https://ghproxy.com/githubusercontent.com/AXYSJ/HaibaraAi/main/Wallpaper/Wallpaper",
+    "wallpaper": "https://bing.img.run/rand.php",
+    "warningText": "⚡欢迎使用矜持先森的壁纸⚡",
+    "sites": [
+        {
+            "key": "Wallpaper",
+            "name": "🖼️┃随机壁纸┃矜持先森┃请去设置界面更换壁纸",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        }
+    ]
+    }
