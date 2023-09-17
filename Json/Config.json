@@ -54,8 +54,6 @@
         {"name":"🛸┃影探┃线路","url":"http://www.lyyytv.cn/yt/yt.json"},
 
          //不定时更新类
-        {"name":"🚀┃花漾影视┃线路","url":"https://jihulab.com/blank7355005/hy/-/raw/main/hyys.json"},
-        {"name":"🚀┃小盒酷玩┃线路","url":"https://jihulab.com/blank7355005/box/-/raw/main/nmys.json"},
         {"name":"🚀┃老刘备┃线路","url":"https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json"},
         {"name":"🚀┃７７影视┃线路","url":"http://tvboxx.com.cn/tvbox/tv.json"},
         {"name":"🚀┃不良帅┃线路","url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"},
@@ -91,6 +89,8 @@
 
 
          /*慢速无效类
+        {"name":"🚀┃花漾影视┃线路","url":"https://jihulab.com/blank7355005/hy/-/raw/main/hyys.json"},
+        {"name":"🚀┃小盒酷玩┃线路","url":"https://jihulab.com/blank7355005/box/-/raw/main/nmys.json"},
         {"name":"🛸┃神仙影视┃线路","url":"https://gitee.com/shenxian2023/immortal-film-and-television/raw/master/sx.json"},
         {"name":"👑┃小胡１号┃线路✨","url":"https://xzam.cn/tv"}, 
         {"name":"👑┃小胡２号┃线路✨","url":"https://download.kstore.space/download/4180/xiaohu"},
