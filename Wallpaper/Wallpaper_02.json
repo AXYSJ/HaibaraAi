@@ -1,11 +1,11 @@
 {
     "spider": "https://ghproxy.com/githubusercontent.com/AXYSJ/HaibaraAi/main/Wallpaper/Wallpaper",
     "wallpaper": "https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Wallpaper/Files/02.png",
-    "warningText": "⚡欢迎使用矜持先森的壁纸⚡",
+    "warningText": "⚡欢迎使用矜持壁纸配置⚡",
     "sites": [
         {
             "key": "Wallpaper",
-            "name": "🖼️┃灰原哀┃矜持先森┃请去设置界面更换壁纸",
+            "name": "🖼️┃灰原哀┃请去设置界面更换壁纸",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
