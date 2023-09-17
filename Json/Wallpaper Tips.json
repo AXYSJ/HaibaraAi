@@ -1,1 +1,15 @@
-
+{
+    "spider": "https://ghproxy.com/githubusercontent.com/AXYSJ/HaibaraAi/main/Wallpaper/Wallpaper",
+    "warningText": "⚡欢迎使用矜持壁纸配置⚡",
+    "sites": [
+        {
+            "key": "Tips",
+            "name": "⚡┃矜持壁纸配置┃请切换其他线路┃⚡",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        }
+    ]
+    }
