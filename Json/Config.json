@@ -2,7 +2,7 @@
     "urls": 
     [
          //开头公告类
-        {"name":"🕛更新时间:2023/09/06","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"🕛更新时间:2023/09/17","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"⚡ By:矜持先森 ⚡","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"📢:请保持软件为最新版本","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"📢:否则配置线路可能加载失败","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
@@ -122,8 +122,8 @@
         {"name":"┃春风┃线路","url":"https://369936.xyz/web119"},
         {"name":"🛸┃小苹果┃线路","url":"https://api.ys66.repl.co/?url=http://m35.grelighting.cn/a001.asp"},
         {"name":"┃刺桐┃线路","url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json"},
-
-{"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
+        
+        {"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
         {"name":"💎┃PizazzGY┃影视","url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/影视/api.json"},
         {"name":"💎┃PizazzGY┃动漫","url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/动漫/api.json"},
         {"name":"💎┃PizazzGY┃体育","url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/体育/api.json"},
@@ -134,7 +134,7 @@
 
 
          //其他线路类
-        {"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"☁┃多多┃阿里云盘专线","url":"https://yydsys.top/duo/ali"}, 
         {"name":"☁┃多多┃阿里云盘专线","url":"https://cdn.yydsys.top/duo/ali"}, 
         {"name":"☁┃运输车┃阿里云盘专线","url":"https://gitee.com/lekanbox/App/raw/master/api.json"},
@@ -142,18 +142,18 @@
 
 
 
-        {"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"👶🏻┃夜猫子┃少儿线路","url":"https://d.looks.wang/夜猫子少儿频道"},
         {"name":"👶🏻┃业余打发┃少儿线路","url":"https://pan.shangui.cc/f/8VDbIo/少儿频道.json"},
 
 
 
-        {"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"🎙️┃吾爱ＭＶ┃线路","url":"http://52bsj.vip:98/mv"},
 
 
 
-        {"name":"━━━━━━━━━━","url":"━━━━━━━━━━"},
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"💎┃欧歌家庭线路","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"},
         {"name":"☁┃欧歌阿里云盘","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌"},
         {"name":"💎┃欧歌学习集合","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌"}
