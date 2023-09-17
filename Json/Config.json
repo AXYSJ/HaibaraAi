@@ -51,11 +51,11 @@
         {"name":"🛸┃星辰影视┃线路","url":"http://8.210.232.168/xc.json"},
         {"name":"🛸┃FongMi┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
         {"name":"🛸┃OwenTV┃线路","url":"https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json"},
+        {"name":"🛸┃小鱼之家┃线路","url":"http://t.84jia.com/tvbox/tvbox.json"},
         {"name":"🛸┃影迷┃线路","url":"https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt"},
         {"name":"🛸┃影探┃线路","url":"http://www.lyyytv.cn/yt/yt.json"},
 
          //不定时更新类
-        {"name":"🛸┃小鱼之家┃线路","url":"http://t.84jia.com/tvbox/tvbox.json"},
         {"name":"🚀┃老刘备┃线路","url":"https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json"},
         {"name":"🚀┃７７影视┃线路","url":"http://tvboxx.com.cn/tvbox/tv.json"},
         {"name":"🚀┃不良帅┃线路","url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"},
