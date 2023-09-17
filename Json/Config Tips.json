@@ -1,10 +1,10 @@
 {
     "spider": "https://ghproxy.com/githubusercontent.com/AXYSJ/HaibaraAi/main/Wallpaper/Wallpaper",
-    "warningText": "⚡欢迎使用矜持先森的配置⚡",
+    "warningText": "⚡欢迎使用矜持超级配置⚡",
     "sites": [
         {
             "key": "Tips",
-            "name": "⚡欢迎使用矜持先森的配置┃请去设置界面切换其他线路⚡",
+            "name": "⚡┃矜持超级配置┃请切换其他线路┃⚡",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
