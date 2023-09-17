@@ -24,7 +24,6 @@
         {"name":"👑┃月光宝盒１号┃线路✨","url":"https://jihulab.com/ygbh1/box/-/raw/main/月光宝.json"},
         {"name":"👑┃月光宝盒２号┃线路✨","url":"https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒"},
         {"name":"👑┃小米┃XBPQ┃线路✨","url":"http://xhww.fun:63/小米/DEMO.json"},
-        {"name":"👑┃高天流云┃香雅情┃XYQ✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
         {"name":"🛸┃Ray １号┃线路","url":"https://xhdwc.tk/0"},
         {"name":"🛸┃Ray ２号┃线路","url":"https://100km.top/0"},
         {"name":"🛸┃多多┃线路","url":"https://yydsys.top/duo"},
@@ -54,7 +53,19 @@
         {"name":"🛸┃小鱼之家┃线路","url":"http://t.84jia.com/tvbox/tvbox.json"},
         {"name":"🛸┃影迷┃线路","url":"https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt"},
         {"name":"🛸┃影探┃线路","url":"http://www.lyyytv.cn/yt/yt.json"},
-
+        
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"👑┃高天流云┃饭太硬┃升级版✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"},//大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析
+        {"name":"🛸┃高天流云┃Panda Groove✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"},//小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
+        {"name":"👑┃高天流云┃饭太硬✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"},//完全来源于饭太硬的jar包和配置
+        {"name":"🛸┃高天流云┃fongmi✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827"},//jar包和配置来源于fongmi
+        {"name":"👑┃高天流云┃唐三✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"},//包和配置来源于唐三
+        {"name":"🛸┃高天流云┃道长┃drpy(js)✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},//资源来源于道长drpy(js)仓库
+        {"name":"🛸┃高天流云┃小米┃XBPQ✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"},//包和配置来源于小米小爆脾气
+        {"name":"🛸┃高天流云┃香雅情┃XYQ✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},//包和配置来源于香雅情
+        {"name":"🛸┃高天流云┃路飞┃极简✨","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lf.json"}, //极简配置，点播共包含5个路飞的js源和2个俊于的T4源
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        
          //不定时更新类
         {"name":"🚀┃老刘备┃线路","url":"https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json"},
         {"name":"🚀┃７７影视┃线路","url":"http://tvboxx.com.cn/tvbox/tv.json"},
