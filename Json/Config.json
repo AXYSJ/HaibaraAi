@@ -2,14 +2,14 @@
     "urls": 
     [
          //开头公告类
-        {"name":"🕛更新时间:2023/09/06","url":"🕛更新时间:2023/09/06"},
-        {"name":"⚡ By:矜持先森 ⚡","url":"⚡ By:矜持先森 ⚡"},
-        {"name":"📢:请保持软件为最新版本","url":"📢:请保持软件为最新版本"},
-        {"name":"📢:否则配置线路可能加载失败","url":"📢:否则配置线路可能加载失败"},
-        {"name":"📢:请务必将缓存时长设置为０","url":"📢:请务必将缓存时长设置为０"},
-        {"name":"📢:如有配置线路失效请反馈","url":"📢:如有配置线路失效请反馈"},
-        {"name":"📢:以上配置线路不可用","url":"📢:以上配置线路不可用"},
-        {"name":"⬇️⬇️⬇️请选择线路⬇️⬇️⬇️","url":"⬇️⬇️⬇️请选择线路⬇️⬇️⬇️"}, 
+        {"name":"🕛更新时间:2023/09/06","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Tips.json"},
+        {"name":"⚡ By:矜持先森 ⚡","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Tips.json"},
+        {"name":"📢:请保持软件为最新版本","url":"📢:https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Tips.json"},
+        {"name":"📢:否则配置线路可能加载失败","url":"📢:https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Tips.json"},
+        {"name":"📢:请务必将缓存时长设置为０","url":"📢:https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Tips.json"},
+        {"name":"📢:如有配置线路失效请反馈","url":"📢:https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Tips.json"},
+        {"name":"📢:以上配置线路不可用","url":"📢:https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Tips.json"},
+        {"name":"⬇️⬇️⬇️请选择线路⬇️⬇️⬇️","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Tips.json"}, 
 
 
 
