@@ -2,7 +2,7 @@
     "urls": 
     [
          //开头公告类
-        {"name":"🕛更新时间:2023/09/17","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"🕛更新时间:2023/09/30","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"⚡ By:矜持先森 ⚡","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"📢:请保持软件为最新版本","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"📢:否则配置线路可能加载失败","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
@@ -23,6 +23,9 @@
         {"name":"👑┃肥猫４号┃线路✨","url":"http://刚刚.live/猫"},
         {"name":"👑┃月光宝盒１号┃线路✨","url":"https://jihulab.com/ygbh1/box/-/raw/main/月光宝.json"},
         {"name":"👑┃月光宝盒２号┃线路✨","url":"https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒"},
+        {"name":"👑┃影音天堂┃通用┃线路✨","url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"},
+        {"name":"👑┃影音天堂┃APP┃线路✨","url":"ttps://jihulab.com/dimaston1/4k/-/raw/main/yytt.json"},
+        {"name":"👑┃影音天堂┃VIP┃线路✨","url":"https://jihulab.com/dimaston1/4k/-/raw/main/vip.json"},
         {"name":"👑┃小米┃XBPQ┃线路✨","url":"http://xhww.fun:63/小米/DEMO.json"},
         {"name":"🛸┃Ray １号┃线路","url":"https://xhdwc.tk/0"},
         {"name":"🛸┃Ray ２号┃线路","url":"https://100km.top/0"},
