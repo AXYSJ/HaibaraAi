@@ -2,7 +2,7 @@
     "urls": 
     [
          //开头公告类
-        {"name":"🕛更新时间:2023/10/26","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"🕛更新时间:2023/10/27","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"⚡ By:矜持先森 ⚡","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"📢:请保持软件为最新版本","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"📢:否则配置线路可能加载失败","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
@@ -15,8 +15,10 @@
 
          //持续维护类
         {"name":"👑┃饭太硬１号┃线路✨","url":"http://饭太硬.top/tv"},
-        {"name":"👑┃饭太硬２号┃线路✨","url":"http://饭.eu.org/tv"},
-        {"name":"👑┃饭太硬３号┃线路✨","url":"https://神器每日推送.tk/pz.json"},
+        {"name":"👑┃饭太硬２号┃线路✨","url":"http://fan.xxooo.cf/tv"},
+        {"name":"👑┃饭太硬３号┃线路✨","url":"http://fan.888484.xyz/tv"},
+        {"name":"👑┃饭太硬４号┃线路✨","url":"http://饭.eu.org/tv"},
+        {"name":"👑┃饭太硬５号┃线路✨","url":"https://神器每日推送.tk/pz.json"},
         {"name":"👑┃肥猫１号┃线路✨","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
         {"name":"👑┃肥猫２号┃线路✨","url":"http://我不是.肥猫.love:63/"},
         {"name":"👑┃肥猫３号┃线路✨","url":"http://肥猫.love"},
