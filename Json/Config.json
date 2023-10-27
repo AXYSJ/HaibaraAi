@@ -51,7 +51,6 @@
         {"name":"🛸┃祥祥影视┃线路","url":"https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json"},
         {"name":"🛸┃业余打发┃线路","url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
         {"name":"🛸┃采集资源┃线路","url":"https://pan.shangui.cc/f/mPecb/采集.json"},
-        {"name":"🛸┃Cally┃线路","url":"https://d.kstore.space/download/4679/cally.json"},
         {"name":"🛸┃ＭＧ影视┃线路","url":"http://43.155.64.249/TVbox/box.json"},
         {"name":"🛸┃星辰影视┃线路","url":"http://8.210.232.168/xc.json"},
         {"name":"🛸┃FongMi┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
@@ -97,6 +96,7 @@
 
 
          /*慢速无效类
+        {"name":"🛸┃Cally┃线路","url":"https://d.kstore.space/download/4679/cally.json"},
         {"name":"✈️┃Lan同学┃线路","url":"https://lantongxue.cc/s.json"},
         {"name":"🚀┃花漾影视┃线路","url":"https://jihulab.com/blank7355005/hy/-/raw/main/hyys.json"},
         {"name":"🚀┃小盒酷玩┃线路","url":"https://jihulab.com/blank7355005/box/-/raw/main/nmys.json"},
