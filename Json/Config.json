@@ -69,7 +69,6 @@
         {"name":"🚀┃ＪＧ api1┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/a.json"},
         {"name":"🚀┃ＪＧ api2┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/api2.json"},
         {"name":"🚀┃分享者┃线路","url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"},
-        {"name":"🚀┃ＴＳ┃线路","url":"https://agit.ai/wifi/ts/raw/branch/master/210.bmp"},
         {"name":"🚀┃沃影视┃线路","url":"https://agit.ai/sejinan/app/raw/branch/box/1.m3u8"},
         {"name":"🚀┃胖虎┃线路","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
         {"name":"✈️┃霜辉月明┃PY","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
@@ -90,6 +89,7 @@
 
 
          /*慢速无效类
+        {"name":"🚀┃ＴＳ┃线路","url":"https://agit.ai/wifi/ts/raw/branch/master/210.bmp"},
         {"name":"✈️┃那里花开┃线路","url":"http://hz752.love:63/tk.json"},
         {"name":"✈️┃月夕花晨┃线路","url":"https://calendre.top/TVBox/YXHC.json"},
         {"name":"🛸┃Cally┃线路","url":"https://d.kstore.space/download/4679/cally.json"},
@@ -137,6 +137,11 @@
         {"name":"💎┃PizazzGY┃教育","url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/教育/api.json"},
         {"name":"💎┃PizazzGY┃直播","url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/直播/api.json"},
         {"name":"☁┃PizazzGY┃云盘","url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/云盘/api.json"},
+
+
+        {"name":"☁┃运输车┃阿里云盘专线","url":"https://gitee.com/lekanbox/App/raw/master/api.json"},
+        {"name":"☁┃业余打发┃阿里云盘专线","url":"https://pan.shangui.cc/f/4LBAF0/ali.json"},
+        
         */
 
 
@@ -158,8 +163,7 @@
         {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"☁┃多多┃阿里云盘专线","url":"https://yydsys.top/duo/ali"}, 
         {"name":"☁┃多多┃阿里云盘专线","url":"https://cdn.yydsys.top/duo/ali"}, 
-        {"name":"☁┃运输车┃阿里云盘专线","url":"https://gitee.com/lekanbox/App/raw/master/api.json"},
-        {"name":"☁┃业余打发┃阿里云盘专线","url":"https://pan.shangui.cc/f/4LBAF0/ali.json"},
+
 
 
 
