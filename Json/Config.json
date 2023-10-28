@@ -79,16 +79,53 @@
         {"name":"✈️┃Kvymin┃线路","url":"https://agit.ai/kvymin/TV/raw/commit/ed15b007c2bf0762c01339c3e2edff79837bf67c/maoys.json"},
         {"name":"✈️┃ＡＢＣ┃线路","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
         {"name":"✈️┃吾爱┃线路","url":"http://52bsj.vip:98/wuai"},
-        /*
+
+
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"👑┃高天流云┃饭太硬┃升级版","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"},//大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析
+        {"name":"👑┃高天流云┃Panda Groove","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"},//小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
+        {"name":"👑┃高天流云┃饭太硬","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"},//完全来源于饭太硬的jar包和配置
+        {"name":"👑┃高天流云┃Fongmi","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827"},//jar包和配置来源于fongmi
+        {"name":"👑┃高天流云┃唐三","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"},//包和配置来源于唐三
+        {"name":"👑┃高天流云┃道长┃drpy(js)","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},//jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库
+        {"name":"👑┃高天流云┃小米┃XBPQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"},//包和配置来源于小米小爆脾气
+        {"name":"👑┃高天流云┃香雅情┃XYQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},//包和配置来源于香雅情
+        {"name":"👑┃高天流云┃路飞┃极简","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json"}, //极简配置，OK大佬的jar，还包括几条路飞、俊于的源
+
+
+
+         //其他线路类
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"☁┃多多┃阿里云盘专线","url":"https://yydsys.top/duo/ali"}, 
+        {"name":"☁┃多多┃阿里云盘专线","url":"https://cdn.yydsys.top/duo/ali"}, 
+
+
+
+
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"👶🏻┃夜猫子┃少儿线路","url":"https://download.kstore.space/download/3313/app/ymshaoer.txt"},
+        {"name":"👶🏻┃业余打发┃少儿线路","url":"https://pan.shangui.cc/f/8VDbIo/少儿频道.json"},
+
+
+
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"🎙️┃吾爱ＭＶ┃线路","url":"http://52bsj.vip:98/mv"},
+
+
+
+        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"💎┃欧歌家庭线路","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"},
+        {"name":"☁┃欧歌阿里云盘","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌"},
+        {"name":"💎┃欧歌学习集合","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌"}
+
+
+
+
+
+
+        /*慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★
         {"name":"✈️┃恋影┃线路","url":"https://www.lianyingtv.com/fast/fast"},
-        {"name":"✈️┃源享家┃线路","url":"http://tv.000913.xyz/230713"},
-        */
-
-
-
-
-
-         /*慢速无效类
+        {"name":"✈️┃源享家┃线路","url":"http://box.000913.xyz/230924"},
         {"name":"🛸┃唐三┃线路","url":"https://gh.t4tv.hz.cz/newtang.bmp"},
         {"name":"✈️┃猎狼┃线路","url":"http://www.tvbox.lltv8.top/TVBox/lib/猎狼TV吧.json"},
         {"name":"✈️┃喵影视┃线路","url":"http://miaotvs.cn/meow"},
@@ -148,47 +185,6 @@
         {"name":"☁┃业余打发┃阿里云盘专线","url":"https://pan.shangui.cc/f/4LBAF0/ali.json"},
         
         */
-
-
-
-        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
-        {"name":"👑┃高天流云┃饭太硬┃升级版","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"},//大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析
-        {"name":"👑┃高天流云┃Panda Groove","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"},//小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
-        {"name":"👑┃高天流云┃饭太硬","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"},//完全来源于饭太硬的jar包和配置
-        {"name":"👑┃高天流云┃Fongmi","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827"},//jar包和配置来源于fongmi
-        {"name":"👑┃高天流云┃唐三","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"},//包和配置来源于唐三
-        {"name":"👑┃高天流云┃道长┃drpy(js)","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},//jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库
-        {"name":"👑┃高天流云┃小米┃XBPQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"},//包和配置来源于小米小爆脾气
-        {"name":"👑┃高天流云┃香雅情┃XYQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},//包和配置来源于香雅情
-        {"name":"👑┃高天流云┃路飞┃极简","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json"}, //极简配置，OK大佬的jar，还包括几条路飞、俊于的源
-
-
-
-         //其他线路类
-        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
-        {"name":"☁┃多多┃阿里云盘专线","url":"https://yydsys.top/duo/ali"}, 
-        {"name":"☁┃多多┃阿里云盘专线","url":"https://cdn.yydsys.top/duo/ali"}, 
-
-
-
-
-        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
-        {"name":"👶🏻┃夜猫子┃少儿线路","url":"https://download.kstore.space/download/3313/app/ymshaoer.txt"},
-        {"name":"👶🏻┃业余打发┃少儿线路","url":"https://pan.shangui.cc/f/8VDbIo/少儿频道.json"},
-
-
-
-        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
-        {"name":"🎙️┃吾爱ＭＶ┃线路","url":"http://52bsj.vip:98/mv"},
-
-
-
-        {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
-        {"name":"💎┃欧歌家庭线路","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"},
-        {"name":"☁┃欧歌阿里云盘","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌"},
-        {"name":"💎┃欧歌学习集合","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌"}
-
-
 
     ]
 }
