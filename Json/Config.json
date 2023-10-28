@@ -47,6 +47,7 @@
         {"name":"🛸┃PizazzGY┃线路","url":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json"},//持续更新
         {"name":"🛸┃Kvymin┃线路","url":"https://agit.ai/kvymin/TV/raw/branch/master/Box.json"},//持续更新
         {"name":"🛸┃zhixc┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/config.json"},//持续更新
+        {"name":"🛸┃VivoMax┃线路","url":"https://ghproxy.net/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},
         {"name":"🛸┃春盈天下┃线路","url":"https://wds.ecsxs.com/230989.json"},//持续更新
         {"name":"🛸┃祥祥影视┃线路","url":"https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json"},//持续更新
         {"name":"🛸┃胖鸭影视┃线路","url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"},//持续更新
@@ -54,29 +55,27 @@
         {"name":"🛸┃业余打发┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"},//持续更新
         {"name":"🛸┃OwenTV┃线路","url":"https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json"},//持续更新
         {"name":"🛸┃FongMi┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},//持续更新
-        {"name":"🛸┃霜辉月明┃PY","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},//持续更新
-        {"name":"💎┃欧歌┃线路","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"},
+        {"name":"💎┃欧歌┃线路","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌"},//持续更新
         {"name":"🛸┃ＭＧ┃线路","url":"http://43.155.64.249/TVbox/box.json"},
         {"name":"🛸┃玉玉┃线路","url":"http://8.210.232.168/xc.json"},
         {"name":"🛸┃小鱼之家┃线路","url":"http://t.84jia.com/tvbox/tvbox.json"},
         {"name":"🛸┃影迷┃线路","url":"https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt"},
         {"name":"🛸┃影探┃线路","url":"http://www.lyyytv.cn/yt/yt.json"},
-         //不定时更新类
         {"name":"🚀┃神仙影视┃线路","url":"https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/%E7%9B%97%E7%94%A8%E6%8E%A5%E5%8F%A3%E6%98%AF%E7%8B%97?ref_type=heads"},
+         //不定时更新类
         {"name":"🚀┃刺桐┃线路","url":"http://tv.cttv.vip/uploads/itvbox/vip.json"},
-        {"name":"🚀┃巴不巴拉┃线路","url":"https://bjson.cf/balabala"},
+        {"name":"🚀┃巴拉巴拉┃线路","url":"https://bjson.cf/balabala"},
+        {"name":"✈️┃吾爱┃线路","url":"http://52bsj.vip:98/wuai"},
+        {"name":"✈️┃爱TV吧┃线路","url":"http://tt.58cxz.com/001.json"},
         {"name":"🚀┃风吹屁屁凉┃线路","url":"http://tvboxx.com.cn/tvbox/tv.json"},
         {"name":"🚀┃不良帅┃线路","url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"},
         {"name":"🚀┃嫖一下┃线路","url":"https://www.0701.gq/tv"},
         {"name":"🚀┃二哈┃线路","url":"https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json"},
         {"name":"🚀┃ＪＧ api1┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/a.json"},
         {"name":"🚀┃ＪＧ api2┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/api2.json"},
-        {"name":"🚀┃沃影视┃线路","url":"https://agit.ai/sejinan/app/raw/branch/box/1.m3u8"},
         {"name":"🚀┃胖虎┃线路","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
-        {"name":"✈️┃VivoMax┃线路","url":"https://ghproxy.net/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},
         {"name":"✈️┃心魔┃线路","url":"https://codeberg.org/jgfx/jhdr/raw/branch/main/yw.json"},
         {"name":"✈️┃ＡＢＣ┃线路","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
-        {"name":"✈️┃吾爱┃线路","url":"http://52bsj.vip:98/wuai"},
 
 
         {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
@@ -89,7 +88,7 @@
         {"name":"👑┃高天流云┃道长┃drpy(js)","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},//jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库
         {"name":"👑┃高天流云┃小米┃XBPQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"},//包和配置来源于小米小爆脾气
         {"name":"👑┃高天流云┃香雅情┃XYQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},//包和配置来源于香雅情
-
+        {"name":"🛸┃霜辉月明┃PY","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},//小明
 
 
          //其他线路类
@@ -114,6 +113,7 @@
 
         /*慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★
         {"name":"✈️┃恋影┃线路","url":"https://www.lianyingtv.com/fast/fast"},
+        {"name":"🚀┃沃影视┃线路","url":"https://agit.ai/sejinan/app/raw/branch/box/1.m3u8"},
         {"name":"✈️┃源享家┃线路","url":"http://box.000913.xyz/230924"},
         {"name":"🛸┃唐三┃线路","url":"https://gh.t4tv.hz.cz/newtang.bmp"},
         {"name":"✈️┃猎狼┃线路","url":"http://www.tvbox.lltv8.top/TVBox/lib/猎狼TV吧.json"},
