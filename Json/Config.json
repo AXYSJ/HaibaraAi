@@ -52,8 +52,9 @@
         {"name":"🛸┃胖鸭影视┃线路","url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"},//持续更新
         {"name":"🛸┃分享者┃线路","url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"},//持续更新
         {"name":"🛸┃业余打发┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"},//持续更新
-        {"name":"🛸┃FongMi┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},//持续更新
         {"name":"🛸┃OwenTV┃线路","url":"https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json"},//持续更新
+        {"name":"🛸┃FongMi┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},//持续更新
+        {"name":"🛸┃霜辉月明┃PY","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},//持续更新
         {"name":"🛸┃ＭＧ┃线路","url":"http://43.155.64.249/TVbox/box.json"},
         {"name":"🛸┃玉玉┃线路","url":"http://8.210.232.168/xc.json"},
         {"name":"🛸┃小鱼之家┃线路","url":"http://t.84jia.com/tvbox/tvbox.json"},
@@ -71,7 +72,6 @@
         {"name":"🚀┃ＪＧ api2┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/api2.json"},
         {"name":"🚀┃沃影视┃线路","url":"https://agit.ai/sejinan/app/raw/branch/box/1.m3u8"},
         {"name":"🚀┃胖虎┃线路","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
-        {"name":"✈️┃霜辉月明┃PY","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
         {"name":"✈️┃VivoMax┃线路","url":"https://ghproxy.net/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},
         {"name":"✈️┃心魔┃线路","url":"https://codeberg.org/jgfx/jhdr/raw/branch/main/yw.json"},
         {"name":"✈️┃ＡＢＣ┃线路","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
@@ -80,14 +80,14 @@
 
         {"name":"━━━━━━━━━━","url":"https://ghproxy.com/raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"👑┃高天流云┃饭太硬┃升级版","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"},//大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析
+        {"name":"👑┃高天流云┃路飞┃极简","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json"}, //极简配置，OK大佬的jar，还包括几条路飞、俊于的源
         {"name":"👑┃高天流云┃Panda Groove","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"},//小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
-        {"name":"👑┃高天流云┃饭太硬","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"},//完全来源于饭太硬的jar包和配置
+        {"name":"👑┃高天流云┃饭太硬┃原版","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"},//完全来源于饭太硬的jar包和配置
         {"name":"👑┃高天流云┃Fongmi","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827"},//jar包和配置来源于fongmi
         {"name":"👑┃高天流云┃唐三","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"},//包和配置来源于唐三
         {"name":"👑┃高天流云┃道长┃drpy(js)","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},//jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库
         {"name":"👑┃高天流云┃小米┃XBPQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"},//包和配置来源于小米小爆脾气
         {"name":"👑┃高天流云┃香雅情┃XYQ","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},//包和配置来源于香雅情
-        {"name":"👑┃高天流云┃路飞┃极简","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json"}, //极简配置，OK大佬的jar，还包括几条路飞、俊于的源
 
 
 
