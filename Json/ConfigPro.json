@@ -2,14 +2,14 @@
     "urls": 
     [
          //开头公告类
-        {"name":"🕛更新时间:2023/10/28","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
-        {"name":"⚡ By:矜持先森 ⚡","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
-        {"name":"📢:请保持软件为最新版本","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
-        {"name":"📢:否则配置线路可能加载失败","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
-        {"name":"📢:请务必将缓存时长设置为０","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
-        {"name":"📢:如有线路失效请反馈","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
-        {"name":"📢:线路加载慢属于正常","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
-        {"name":"⬇️⬇️⬇️请选择线路⬇️⬇️⬇️","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"}, 
+        {"name":"🕛更新时间:2023/10/28","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"⚡ By:矜持先森 ⚡","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"📢:请保持软件为最新版本","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"📢:否则配置线路可能加载失败","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"📢:请务必将缓存时长设置为０","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"📢:如有线路失效请反馈","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"📢:线路加载慢属于正常","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"⬇️⬇️⬇️请选择线路⬇️⬇️⬇️","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"}, 
 
 
 
@@ -23,9 +23,9 @@
         {"name":"👑┃肥猫２号┃线路✨","url":"http://刚刚.live/猫"},
         {"name":"👑┃肥猫３号┃线路✨","url":"http://我不是.肥猫.love:63/"},
         {"name":"👑┃肥猫４号┃线路✨","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
-        {"name":"👑┃月光宝盒┃VIP┃线路✨","url":"https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json"},
-        {"name":"👑┃月光宝盒１号┃线路✨","url":"https://cdn.jsdelivr.net/gh/guot55/YGBH@main/box原.json"},
-        {"name":"👑┃月光宝盒２号┃线路✨","url":"https://cdn.jsdelivr.net/gh/guot55/YGBH@main/ygbox.json"},
+        {"name":"👑┃月光宝盒┃VIP┃线路✨","url":"https://raw.fastgit.org/guot55/YGBH/main/vip2.json"},
+        {"name":"👑┃月光宝盒１号┃线路✨","url":"https://raw.fastgit.org/guot55/YGBH/main/box原.json"},
+        {"name":"👑┃月光宝盒２号┃线路✨","url":"https://raw.fastgit.org/guot55/YGBH/main/ygbox.json"},
         {"name":"👑┃影音天堂┃APP┃线路✨","url":"https://jihulab.com/dimaston1/4k/-/raw/main/%E5%BD%B1%E9%9F%B3%E5%A4%A9%E5%A0%82App.json?ref_type=heads"},
         {"name":"👑┃影音天堂┃通用┃线路✨","url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"},
         {"name":"👑┃小米┃XBPQ┃线路✨","url":"http://xhww.fun:63/小米/DEMO.json"},
@@ -46,11 +46,11 @@
         {"name":"🛸┃荷城茶秀２号┃线路","url":"http://rihou.vip:88/荷城茶秀"},
         {"name":"🛸┃荷城茶秀３号┃线路","url":"http://rihou.vip:99/荷城茶秀"},
         {"name":"🛸┃OwenTV┃线路","url":"https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json"},//持续更新
-        {"name":"🛸┃FongMi┃线路","url":"https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/config.json"},//持续更新
-        {"name":"🛸┃业余打发┃线路","url":"https://cdn.jsdelivr.net/gh/yydfys/yydf@main/yydf/yydf.json"},//持续更新
-        {"name":"🛸┃二哈┃线路","url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json"},//持续更新
-        {"name":"🛸┃zhixc┃线路","url":"https://cdn.jsdelivr.net/gh/zhixc/CatVodTVSpider@main/json/config.json"},//持续更新
-        {"name":"🛸┃PizazzGY┃线路","url":"https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api2.json"},//持续更新
+        {"name":"🛸┃FongMi┃线路","url":"https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json"},//持续更新
+        {"name":"🛸┃业余打发┃线路","url":"https://raw.fastgit.org/yydfys/yydf/main/yydf/yydf.json"},//持续更新
+        {"name":"🛸┃二哈┃线路","url":"https://raw.fastgit.org/2hacc/TVBox/main/tvbox.json"},//持续更新
+        {"name":"🛸┃zhixc┃线路","url":"https://raw.fastgit.org/zhixc/CatVodTVSpider/main/json/config.json"},//持续更新
+        {"name":"🛸┃PizazzGY┃线路","url":"https://raw.fastgit.org/PizazzGY/TVBox/main/api2.json"},//持续更新
         {"name":"🛸┃祥祥┃线路","url":"https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json"},//持续更新
         {"name":"🛸┃胖鸭┃线路","url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"},//持续更新
         {"name":"🛸┃分享者┃线路","url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"},//持续更新
@@ -73,34 +73,34 @@
         {"name":"🚀┃小马┃线路","url":"https://szyyds.cn/tv/x.json"},
 
         
-        {"name":"━━━━━━━━━━","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},//高天流云
-        {"name":"👑┃高天流云┃饭太硬┃升级版","url":"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json"},//大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析
-        {"name":"👑┃高天流云┃路飞┃极简","url":"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0822.json"}, //极简配置，OK大佬的jar，还包括几条路飞、俊于的源
-        {"name":"👑┃高天流云┃Panda Groove","url":"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.json"},//小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
-        {"name":"👑┃高天流云┃饭太硬┃原版","url":"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0826.json"},//完全来源于饭太硬的jar包和配置
-        {"name":"👑┃高天流云┃Fongmi","url":"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827"},//jar包和配置来源于fongmi
-        {"name":"👑┃高天流云┃唐三","url":"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0828.json"},//包和配置来源于唐三
-        {"name":"👑┃高天流云┃道长┃drpy(js)","url":"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"},//jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库
-        {"name":"👑┃高天流云┃小米┃XBPQ","url":"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XBPQ.json"},//包和配置来源于小米小爆脾气
-        {"name":"👑┃高天流云┃香雅情┃XYQ","url":"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json"},//包和配置来源于香雅情
-        {"name":"🛸┃霜辉月明┃PY","url":"https://cdn.jsdelivr.net/gh/lm317379829/PyramidStore@pyramid/py.json"},//小明
+        {"name":"━━━━━━━━━━","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},//高天流云
+        {"name":"👑┃高天流云┃饭太硬┃升级版","url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0821.json"},//大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析
+        {"name":"👑┃高天流云┃路飞┃极简","url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0822.json"}, //极简配置，OK大佬的jar，还包括几条路飞、俊于的源
+        {"name":"👑┃高天流云┃Panda Groove","url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0825.json"},//小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
+        {"name":"👑┃高天流云┃饭太硬┃原版","url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0826.json"},//完全来源于饭太硬的jar包和配置
+        {"name":"👑┃高天流云┃Fongmi","url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0827"},//jar包和配置来源于fongmi
+        {"name":"👑┃高天流云┃唐三","url":"https://raw.fastgit.org/gaotianliuyun/gao/master/0828.json"},//包和配置来源于唐三
+        {"name":"👑┃高天流云┃道长┃drpy(js)","url":"https://raw.fastgit.org/gaotianliuyun/gao/master/js.json"},//jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库
+        {"name":"👑┃高天流云┃小米┃XBPQ","url":"https://raw.fastgit.org/gaotianliuyun/gao/master/XBPQ.json"},//包和配置来源于小米小爆脾气
+        {"name":"👑┃高天流云┃香雅情┃XYQ","url":"https://raw.fastgit.org/gaotianliuyun/gao/master/XYQ.json"},//包和配置来源于香雅情
+        {"name":"🛸┃霜辉月明┃PY","url":"https://raw.fastgit.org/lm317379829/PyramidStore/pyramid/py.json"},//小明
 
 
          //其他线路类
-        {"name":"━━━━━━━━━━","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
+        {"name":"━━━━━━━━━━","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
         {"name":"☁┃多多┃阿里云盘专线","url":"https://yydsys.top/duo/ali"}, 
         {"name":"☁┃多多┃阿里云盘专线","url":"https://cdn.yydsys.top/duo/ali"}, 
         {"name":"☁┃欧歌┃阿里云盘专线","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌"},
 
 
 
-        {"name":"━━━━━━━━━━","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
+        {"name":"━━━━━━━━━━","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
         {"name":"👶🏻┃夜猫子┃少儿线路","url":"https://download.kstore.space/download/3313/app/ymshaoer.txt"},
 
-        {"name":"━━━━━━━━━━","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
+        {"name":"━━━━━━━━━━","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
         {"name":"💎┃欧歌学习集合","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌"},
 
-        {"name":"━━━━━━━━━━","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
+        {"name":"━━━━━━━━━━","url":"https://raw.fastgit.org/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
         {"name":"🎙️┃吾爱ＭＶ┃线路","url":"http://52bsj.vip:98/mv"}
 
 
@@ -111,7 +111,7 @@
         {"name":"✈️┃心魔┃线路","url":"https://codeberg.org/jgfx/jhdr/raw/branch/main/yw.json"},
         {"name":"🚀┃不良帅┃线路","url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"},
         {"name":"🚀┃巴拉巴拉┃线路","url":"https://bjson.cf/balabala"},
-        {"name":"🛸┃VivoMax┃线路","url":"https://cdn.jsdelivr.net/gh/Vivo-Max/drpy-js/main/js.json"},//cat猫官用
+        {"name":"🛸┃VivoMax┃线路","url":"https://raw.fastgit.org/Vivo-Max/drpy-js/main/js.json"},//cat猫官用
         {"name":"🚀┃ＪＧ api1┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/a.json"},
         {"name":"🚀┃ＪＧ api2┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/api2.json"},
         {"name":"🚀┃胖虎┃线路","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
