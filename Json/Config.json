@@ -3,8 +3,9 @@
     [
          //开头公告类
         {"name":"⚡ By:矜持先森 ⚡","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
-        {"name":"📢:软件版本已过时","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
-        {"name":"📢:配置线路需新版本","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
+        {"name":"📢:软件版本已过时需更新","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
+        {"name":"📢:配置接口已过时需更新","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
+        {"name":"📢:新配置线路需新版本影视仓","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
         {"name":"📢:请保持软件为最新版本","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
         {"name":"📢:加载失败","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
         {"name":"📢:请务必将缓存时长设置为０","url":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/main/Json/Config%20Tips.json"},
