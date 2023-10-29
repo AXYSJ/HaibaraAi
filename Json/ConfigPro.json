@@ -2,14 +2,14 @@
     "urls": 
     [
          //开头公告类
-        {"name":"🕛更新时间:2023/10/29","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
-        {"name":"⚡ By:矜持先森 ⚡","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
-        {"name":"📢:请保持软件为最新版本","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
-        {"name":"📢:否则配置线路可能加载失败","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
-        {"name":"📢:请务必将缓存时长设置为０","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
-        {"name":"📢:如有线路失效请反馈","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
-        {"name":"📢:线路加载慢属于正常","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
-        {"name":"⬇️⬇️⬇️请选择线路⬇️⬇️⬇️","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"}, 
+        {"name":"🕛更新时间:2023/10/29","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"⚡ By:矜持先森 ⚡","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"📢:请保持软件为最新版本","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"📢:否则配置线路可能加载失败","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"📢:请务必将缓存时长设置为０","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"📢:如有线路失效请反馈","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"📢:线路加载慢属于正常","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"⬇️⬇️⬇️请选择线路⬇️⬇️⬇️","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"}, 
 
 
 
@@ -73,7 +73,7 @@
         {"name":"🚀┃小马┃线路","url":"https://szyyds.cn/tv/x.json"},
 
         
-        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},//高天流云
+        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},//高天流云
         {"name":"👑┃高天流云┃饭太硬┃升级版","url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/0821.json"},//大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析
         {"name":"👑┃高天流云┃路飞┃极简","url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/0822.json"}, //极简配置，OK大佬的jar，还包括几条路飞、俊于的源
         {"name":"👑┃高天流云┃Panda Groove","url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/0825.json"},//小而精的配置，jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
@@ -87,20 +87,20 @@
 
 
          //其他线路类
-        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"☁┃多多┃阿里云盘专线","url":"https://yydsys.top/duo/ali"}, 
         {"name":"☁┃多多┃阿里云盘专线","url":"https://cdn.yydsys.top/duo/ali"}, 
         {"name":"☁┃欧歌┃阿里云盘专线","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌"},
 
 
 
-        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"👶🏻┃夜猫子┃少儿线路","url":"https://download.kstore.space/download/3313/app/ymshaoer.txt"},
 
-        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"💎┃欧歌学习集合","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌"},
 
-        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"🎙️┃吾爱ＭＶ┃线路","url":"http://52bsj.vip:98/mv"}
 
 
