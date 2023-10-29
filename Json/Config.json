@@ -47,7 +47,8 @@
         {"name":"🛸┃PizazzGY┃线路","url":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json"},//持续更新
         {"name":"🛸┃Kvymin┃线路","url":"https://agit.ai/kvymin/TV/raw/branch/master/Box.json"},//持续更新
         {"name":"🛸┃zhixc┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/config.json"},//持续更新
-        {"name":"🛸┃VivoMax┃线路","url":"https://ghproxy.net/raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},
+        {"name":"🚀┃二哈┃线路","url":"https://ghproxy.com/raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},//持续更新
+        {"name":"🛸┃VivoMax┃线路","url":"https://ghproxy.net/raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},//持续更新
         {"name":"🛸┃春盈天下┃线路","url":"https://wds.ecsxs.com/230989.json"},//持续更新
         {"name":"🛸┃祥祥影视┃线路","url":"https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json"},//持续更新
         {"name":"🛸┃胖鸭影视┃线路","url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"},//持续更新
@@ -71,10 +72,6 @@
         {"name":"🚀┃风吹屁屁凉┃线路","url":"http://tvboxx.com.cn/tvbox/tv.json"},
         {"name":"🚀┃不良帅┃线路","url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"},
         {"name":"🚀┃嫖一下┃线路","url":"https://www.0701.gq/tv"},
-        {"name":"🚀┃二哈┃线路","url":"https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json"},
-        {"name":"🚀┃ＪＧ api1┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/a.json"},
-        {"name":"🚀┃ＪＧ api2┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/api2.json"},
-        {"name":"🚀┃胖虎┃线路","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
         {"name":"✈️┃心魔┃线路","url":"https://codeberg.org/jgfx/jhdr/raw/branch/main/yw.json"},
         {"name":"✈️┃Cally┃线路","url":"http://52bsj.vip:81/api/v3/file/get/161268/52.txt?sign=oYVF6yRp1d_2lBrCMXoWPoRRDmkh-YEWlo1qpKxJG8Q%3D%3A0"},
 
@@ -112,6 +109,9 @@
 
 
         /*慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★
+        {"name":"🚀┃ＪＧ api1┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/a.json"},
+        {"name":"🚀┃ＪＧ api2┃线路","url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/api2.json"},
+        {"name":"🚀┃胖虎┃线路","url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"},
         {"name":"✈️┃恋影┃线路","url":"https://www.lianyingtv.com/fast/fast"},
         {"name":"🚀┃沃影视┃线路","url":"https://agit.ai/sejinan/app/raw/branch/box/1.m3u8"},
         {"name":"✈️┃源享家┃线路","url":"http://box.000913.xyz/230924"},
