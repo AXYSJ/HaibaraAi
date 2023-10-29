@@ -1,9 +1,9 @@
 { "storeHouse":
     [
 
-    {"sourceName":"⚡矜持超级配置⚡","sourceUrl":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/Json/Config.json"},
+    {"sourceName":"⚡矜持超级配置⚡","sourceUrl":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/Json/ConfigPro.json"},
 
-    {"sourceName":"⚡矜持壁纸配置⚡","sourceUrl":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/Json/Wallpaper.json"}
+    {"sourceName":"⚡矜持壁纸配置⚡","sourceUrl":"https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/Json/WallpaperPro.json"}
 
     ]
 }
