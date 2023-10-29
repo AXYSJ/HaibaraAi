@@ -1,6 +1,6 @@
 {
-    "spider": "https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/Json/Jar",
-    "wallpaper": "https://cdn.jsdelivr.net/gh/AXYSJ/HaibaraAi@main/Wallpaper/Files/05.png",
+    "spider": "https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Jar",
+    "wallpaper": "https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Wallpaper/Files/05.png",
     "warningText": "⚡欢迎使用矜持壁纸配置⚡",
     "sites": [
         {
