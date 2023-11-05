@@ -2,7 +2,7 @@
     "urls": 
     [
          //开头公告类
-        {"name":"🕛更新时间:2023/10/29","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
+        {"name":"🕛更新时间:2023/11/05","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"⚡ By:矜持先森 ⚡","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"📢:请保持软件为最新版本","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
         {"name":"📢:否则配置线路可能加载失败","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/Config%20Tips.json"},
@@ -41,7 +41,7 @@
         {"name":"🛸┃运输车１号┃线路","url":"https://weixine.net/ysc.json"},
         {"name":"🛸┃运输车２号┃线路","url":"https://cf.weixine.net/ysc.json"},
         {"name":"🛸┃运输车３号┃线路","url":"http://ysc.weixine.net:33"},
-        {"name":"🛸┃天天开心┃线路","url":"http://rihou.vip/天天开心"},
+        {"name":"🛸┃天天开心┃线路","url":"http://rihou.vip:61/天天开心"},
         {"name":"🛸┃荷城茶秀１号┃线路","url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"},
         {"name":"🛸┃荷城茶秀２号┃线路","url":"http://rihou.vip:88/荷城茶秀"},
         {"name":"🛸┃荷城茶秀３号┃线路","url":"http://rihou.vip:99/荷城茶秀"},
