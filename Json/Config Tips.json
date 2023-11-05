@@ -4,16 +4,7 @@
     "sites": [
         {
             "key": "Tips",
-            "name": "⚡┃矜持超级配置┃请切换其他线路┃⚡",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "Xpath",
-            "name": "⚡┃2.0┃⚡",
+            "name": "⚡┃矜持超级配置┃配置版本:2.0┃请切换其他线路┃⚡",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
