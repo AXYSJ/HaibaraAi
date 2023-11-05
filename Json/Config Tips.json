@@ -11,5 +11,14 @@
             "quickSearch": 0,
             "filterable": 0
         }
+        {
+            "key": "Xpath",
+            "name": "⚡┃2.0┃⚡",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        }
     ]
     }
