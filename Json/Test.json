@@ -1,4 +1,4 @@
-https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json
+/*https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json
 
 
 https://raw.fastgit.org/
@@ -18,4 +18,19 @@ https://raw.githubusercontents.com/=https://raw.gitmirror.com/
 https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
 
 
-https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/xiaoya.json
+https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/xiaoya.json*/
+
+
+{
+    "urls": 
+    [
+         //\u5f00\u5934\u516c\u544a\u7c7b
+        {"name":"⚡ By:\u77dc\u6301\u5148\u68ee ⚡","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"⚠️\u8f6f\u4ef6\u7248\u672c\u5df2\u8fc7\u65f6\u9700\u66f4\u65b0⚠️","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"⚠️\u914d\u7f6e\u63a5\u53e3\u5df2\u8fc7\u65f6\u9700\u66f4\u65b0⚠️","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"⚠️\u8bf7\u66f4\u65b0\u6700\u65b0\u8f6f\u4ef6\u4e0e\u914d\u7f6e⚠️","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"⚠️\u8bf7\u5220\u9664->\u77dc\u6301\u8d85\u7ea7\u914d\u7f6e⚠️","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"},
+        {"name":"⚠️ \u52a0 \u8f7d \u5931 \u8d25 ⚠️","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/main/Json/Config%20Tips.json"}
+
+    ]
+}
