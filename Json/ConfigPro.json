@@ -43,7 +43,7 @@
         {"name":"🛸┃运输车１号┃线路","url":"https://weixine.net/ysc.json"},
         {"name":"🛸┃运输车２号┃线路","url":"https://cf.weixine.net/ysc.json"},
         {"name":"🛸┃运输车３号┃线路","url":"http://ysc.weixine.net:33"},
-        {"name":"🛸┃天天开心┃线路","url":"http://rihou.vip:66/天天开心"},
+        {"name":"🛸┃天天开心┃线路","url":"http://rihou.vip:66/"},
         {"name":"🛸┃荷城茶秀１号┃线路","url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"},
         {"name":"🛸┃荷城茶秀２号┃线路","url":"http://rihou.vip:88/荷城茶秀"},
         {"name":"🛸┃荷城茶秀３号┃线路","url":"http://rihou.vip:99/荷城茶秀"},
@@ -52,7 +52,7 @@
         {"name":"🛸┃业余打发┃线路","url":"https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydfjk.json"},//持续更新
         {"name":"🛸┃二哈┃线路","url":"https://raw.gitmirror.com/2hacc/TVBox/main/tvbox.json"},//持续更新
         {"name":"🛸┃zhixc┃线路","url":"https://raw.gitmirror.com/zhixc/CatVodTVSpider/main/json/config.json"},//持续更新
-        {"name":"🛸┃PizazzGY┃线路","url":"https://raw.gitmirror.com/PizazzGY/TVBox/main/api2.json"},//持续更新
+        {"name":"🛸┃PizazzGY┃线路","url":"https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json"},//持续更新
         {"name":"🛸┃祥祥┃线路","url":"https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json"},//持续更新
         {"name":"🛸┃胖鸭┃线路","url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"},//持续更新
         {"name":"🛸┃分享者┃线路","url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"},//持续更新
