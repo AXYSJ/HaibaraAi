@@ -82,6 +82,8 @@
         {"name":"🚀┃毒盒┃线路","url":"https://youdu.fan/tvboxyd/毒盒影视/api.json"},
         {"name":"🚀┃毒盒┃线路","url":"https://youdu.fan/tvbox/yd/yd.json"},
 
+        
+
         {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/ConfigTips.json"},//高天流云
         {"name":"👑┃高天流云┃饭太硬┃升级版","url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/0821.json"},//大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析
         {"name":"👑┃高天流云┃路飞┃极简","url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/0822.json"}, //极简配置，OK大佬的jar
@@ -115,8 +117,8 @@
 
 
         /*慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★
-                {"name":"🚀┃潇洒┃线路","url":"https://la.kstore.space/download/2863/01.txt"},
-                {"name":"🚀┃Cally┃线路","url":"http://52bsj.vip:81/api/v3/file/get/161268/52.txt?sign=oYVF6yRp1d_2lBrCMXoWPoRRDmkh-YEWlo1qpKxJG8Q%3D%3A0"}, 
+        {"name":"🚀┃潇洒┃线路","url":"https://la.kstore.space/download/2863/01.txt"},
+        {"name":"🚀┃Cally┃线路","url":"http://52bsj.vip:81/api/v3/file/get/161268/52.txt?sign=oYVF6yRp1d_2lBrCMXoWPoRRDmkh-YEWlo1qpKxJG8Q%3D%3A0"}, 
         {"name":"🚀┃嫖一下┃线路","url":"https://www.0701.gq/tv"},     
         {"name":"🚀┃小鱼之家┃线路","url":"http://t.84jia.com/tvbox/tvbox.json"},    
         {"name":"🛸┃乐享汇１号┃4K线路","url":"https://raw.gitmirror.com//lxhfans/TV/master/tv.txt"},
