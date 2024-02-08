@@ -24,8 +24,6 @@
         {"name":"👑┃肥猫３号┃线路✨","url":"http://刚刚.live/猫"},
         {"name":"👑┃肥猫４号┃线路✨","url":"http://我不是.肥猫.love:63/"},
         {"name":"👑┃肥猫５号┃线路✨","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
-        {"name":"👑┃影音天堂┃APP┃线路✨","url":"https://jihulab.com/dimaston1/4k/-/raw/main/%E5%BD%B1%E9%9F%B3%E5%A4%A9%E5%A0%82App.json?ref_type=heads"},
-        {"name":"👑┃影音天堂┃通用┃线路✨","url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"},
         {"name":"👑┃小米┃XBPQ┃线路✨","url":"http://xhww.fun:63/小米/DEMO.json"},
         {"name":"👑┃菜妮丝┃线路","url":"https://tvbox.cainisi.cf"},
         {"name":"👑┃多多┃线路","url":"https://yydsys.top/duo"},
@@ -44,9 +42,8 @@
         {"name":"🛸┃荷城茶秀１号┃线路","url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"},
         {"name":"🛸┃荷城茶秀２号┃线路","url":"http://rihou.vip:88/荷城茶秀"},
         {"name":"🛸┃荷城茶秀３号┃线路","url":"http://rihou.vip:99/荷城茶秀"},
-        {"name":"🛸┃OwenTV┃线路","url":"https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json"},//持续更新
+        {"name":"🛸┃OwenTV┃线路","url":"https://raw.gitmirror.com/2hacc/TVBox/main/tvbox.json"},//持续更新
         {"name":"🛸┃FongMi┃线路","url":"https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json"},//持续更新
-        {"name":"🛸┃业余打发┃线路","url":"https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydfjk.json"},//持续更新
         {"name":"🛸┃二哈┃线路","url":"https://raw.gitmirror.com/2hacc/TVBox/main/tvbox.json"},//持续更新
         {"name":"🛸┃zhixc┃线路","url":"https://raw.gitmirror.com/zhixc/CatVodTVSpider/main/json/config.json"},//持续更新
         {"name":"🛸┃PizazzGY┃线路","url":"https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json"},//持续更新
@@ -112,6 +109,9 @@
 
 
         /*慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★
+        {"name":"👑┃影音天堂┃APP┃线路✨","url":"https://jihulab.com/dimaston1/4k/-/raw/main/%E5%BD%B1%E9%9F%B3%E5%A4%A9%E5%A0%82App.json?ref_type=heads"},
+        {"name":"👑┃影音天堂┃通用┃线路✨","url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"},
+        {"name":"🛸┃业余打发┃线路","url":"https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydfjk.json"},//持续更新
         {"name":"👑┃月光宝盒VIP┃线路✨","url":"https://raw.gitmirror.com/guot55/YGBH/main/vip2.json"},
         {"name":"👑┃月光宝盒１号┃线路✨","url":"https://raw.gitmirror.com/guot55/YGBH/main/box原.json"},
         {"name":"👑┃月光宝盒２号┃线路✨","url":"https://raw.gitmirror.com/guot55/YGBH/main/ygbox.json"},
