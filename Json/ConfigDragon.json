@@ -26,6 +26,7 @@
         {"name":"👑┃肥猫５号┃线路✨","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
         {"name":"👑┃小米┃XBPQ┃线路✨","url":"http://xhww.fun:63/小米/DEMO.json"},
         {"name":"👑┃菜妮丝┃线路","url":"https://tvbox.cainisi.cf"},
+        {"name":"👑┃小胡┃线路","url":"http://xiaohu.xzam.cn/xiaohu"},
         {"name":"👑┃多多┃线路","url":"https://yydsys.top/duo"},
         {"name":"👑┃云星日记┃线路","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
         {"name":"👑┃好人┃线路","url":"https://100km.top/0"},
@@ -40,6 +41,7 @@
         {"name":"🛸┃荷城茶秀１号┃线路","url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"},
         {"name":"🛸┃荷城茶秀２号┃线路","url":"http://rihou.vip:88/荷城茶秀"},
         {"name":"🛸┃荷城茶秀３号┃线路","url":"http://rihou.vip:99/荷城茶秀"},
+        {"name":"🛸┃天天开心┃线路","url":"http://rihou.vip:55/天天开心"},
         {"name":"🛸┃OwenTV┃线路","url":"https://raw.gitmirror.com/owen2000wy/owentv/main/OwenTV.json"},//持续更新
         {"name":"🛸┃FongMi┃线路","url":"https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json"},//持续更新
         {"name":"🛸┃二哈┃线路","url":"https://raw.gitmirror.com/2hacc/TVBox/main/tvbox.json"},//持续更新
@@ -60,7 +62,8 @@
         {"name":"🚀┃影探破解┃线路","url":"http://www.lyyytv.cn/yt/yt.json"},
         {"name":"🚀┃风吹屁屁凉┃线路","url":"http://tvboxx.com.cn/tvbox/tv.json"},
         {"name":"🚀┃小马┃线路","url":"https://szyyds.cn/tv/x.json"},
-        
+        {"name":"🚀┃喵影视┃线路","url":"http://meowtv.cn/tv"},
+
         {"name":"━━━━━━━━━━","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/ConfigTips.json"},//高天流云
         {"name":"👑┃高天流云┃饭太硬┃升级版","url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/0821.json"},//大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析
         {"name":"👑┃高天流云┃路飞┃极简","url":"https://raw.gitmirror.com/gaotianliuyun/gao/master/0822.json"}, //极简配置，OK大佬的jar
