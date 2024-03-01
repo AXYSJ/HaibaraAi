@@ -2,7 +2,7 @@
     "urls": 
     [
          //开头公告类
-        {"name":"🕛更新时间:2024/02/09","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/ConfigTips.json"},
+        {"name":"🕛更新时间:2024/03/01","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/ConfigTips.json"},
         {"name":"⚡ By:矜持先森 ⚡","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/ConfigTips.json"},
         {"name":"📢:请保持软件为最新版本","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/ConfigTips.json"},
         {"name":"📢:否则配置线路可能加载失败","url":"https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Json/ConfigTips.json"},
@@ -14,7 +14,7 @@
 
 
          //持续维护类
-       {"name":"👑┃ＯＫ┃线路✨","url":"https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"},
+        {"name":"👑┃ＯＫ┃线路✨","url":"https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"},
         {"name":"👑┃饭太硬１号┃线路✨","url":"http://饭太硬.top/tv"},
         {"name":"👑┃饭太硬２号┃线路✨","url":"http://fan.xxooo.cf/tv"},
         {"name":"👑┃饭太硬３号┃线路✨","url":"http://fan.888484.xyz/tv"},
