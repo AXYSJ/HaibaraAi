@@ -24,7 +24,7 @@
         {"name":"👑┃肥猫２号┃线路✨","url":"http://我不是.肥猫.live/接口禁止贩卖"},
         {"name":"👑┃肥猫３号┃线路✨","url":"http://小白.love"},
         {"name":"👑┃小米┃XBPQ┃线路✨","url":"http://xhww.fun:63/小米/DEMO.json"},
-        {"name":"👑┃香雅情┃XYQ┃线路✨","url":"https://raw.gitmirror.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
+        {"name":"👑┃春盈天下┃线路","url":"https://wds.ecsxs.com/230989.json"},//持续更新
         {"name":"👑┃小胡┃线路","url":"http://xiaohu.xzam.cn/xiaohu"},
         {"name":"👑┃摸鱼┃线路","url":"http://我不是.摸鱼儿.top"},
         {"name":"👑┃多多┃线路","url":"https://yydsys.top/duo"},
@@ -32,12 +32,13 @@
         {"name":"👑┃好人┃线路","url":"https://100km.top/0"},
         {"name":"👑┃南风┃线路","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
         {"name":"👑┃影迷┃线路","url":"https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt"},
-        {"name":"🛸┃荷城茶秀１号┃线路","url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"},
-        {"name":"🛸┃荷城茶秀２号┃线路","url":"http://rihou.vip:88/荷城茶秀"},
-        {"name":"🛸┃荷城茶秀３号┃线路","url":"http://rihou.vip:99/荷城茶秀"},
-        {"name":"🛸┃天天开心┃线路","url":"http://rihou.vip:55/天天开心"},
-        {"name":"👑┃春盈天下┃线路","url":"https://wds.ecsxs.com/230989.json"},//持续更新
-        {"name":"🛸┃欧歌┃线路","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌"},//持续更新
+        {"name":"👑┃荷城茶秀１号┃线路","url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"},
+        {"name":"👑┃荷城茶秀２号┃线路","url":"http://rihou.vip:88/荷城茶秀"},
+        {"name":"👑┃荷城茶秀３号┃线路","url":"http://rihou.vip:99/荷城茶秀"},
+        {"name":"👑┃天天开心┃线路","url":"http://rihou.vip:55/天天开心"},
+        {"name":"👑┃运输车１号┃线路","url":"https://weixine.net/ysc.json"},
+        {"name":"👑┃运输车２号┃线路","url":"https://cf.weixine.net/ysc.json"},
+        {"name":"👑┃欧歌┃线路","url":"http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌"},//持续更新
         {"name":"👑┃业余打发┃线路","url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"}//持续更新
 
 /*        
@@ -45,8 +46,7 @@
         {"name":"🛸┃巧技┃线路","url":"http://pandown.pro/tvbox/tvbox.json"},
         {"name":"🛸┃夜猫子┃线路","url":"https://download.kstore.space/download/3313/app/ymzn"},
         {"name":"🛸┃运输车VIP┃线路","url":"https://tvkj.top/DC/ysc/tvkj/svip.json/"},
-        {"name":"🛸┃运输车１号┃线路","url":"https://weixine.net/ysc.json"},
-        {"name":"🛸┃运输车２号┃线路","url":"https://cf.weixine.net/ysc.json"},
+
 
         {"name":"🛸┃OwenTV┃线路","url":"https://raw.gitmirror.com/owen2000wy/owentv/main/OwenTV.json"},//持续更新
         {"name":"🛸┃FongMi┃线路","url":"https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/demo.json"},//持续更新
@@ -111,6 +111,7 @@
 
 
         /*慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★慢速无效类★
+        {"name":"👑┃香雅情┃XYQ┃线路✨","url":"https://raw.gitmirror.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
         {"name":"🚀┃壹梦┃线路","url":"http://qrh.yimkj.cn/ym/%E5%A3%B9%E6%A2%A6.json"},
         {"name":"🚀┃环宇轩┃线路","url":"https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json"},
         {"name":"🚀┃万达┃线路","url":"https://tv.tv666.cc/box/tv/tv.json"},
