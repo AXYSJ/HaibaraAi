@@ -2,12 +2,26 @@
     "spider": "https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Core/Jar",
     "warningText": "⚡欢迎使用矜持直播配置⚡",
     
-    "lives":[
+ /*  "lives":[
 
         
       {"name":"live","type":0,"url":"https://raw.gitmirror.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10,"logo":"https://epg.112114.xyz/logo/{name}.png"}
             ],
-    
+
+*/
+
+
+        "lives": [
+        {
+            "name": "live",
+            "url": "https://raw.gitmirror.com/YanG-1989/m3u/main/Gather.m3u",
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/3.12.13",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
     "sites": [
         {
             "key": "Live",
