@@ -1,33 +1,23 @@
-
 {
     "spider": "https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Core/Jar",
     "warningText": "⚡欢迎使用矜持直播配置⚡",
     
-  "lives":[
-
-        
-      {"name":"live","type":0,"url":"https://raw.gitmirror.com/Meroser/IPTV/main/IPTV-tvbox.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10,"logo":"https://epg.112114.xyz/logo/{name}.png"}
+  "lives": [
+      {    
+          "name": "live",
+          "type":0,
+          "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/owen2000wy/owentv/main/HP20230319.txt",
+          "playerType": 1,
+          "ua":"okhttp/3.15",
+          "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+          "logo":"https://epg.112114.xyz/logo/{name}.png",
+          "timeout":10
+      }
             ],
-
-
-
-
-/*        "lives": [
-        {
-            "name": "live",
-            "url": "https://raw.gitmirror.com/YanG-1989/m3u/main/Gather.m3u",
-            "type": 0,
-            "playerType": 1,
-            "ua": "okhttp/3.12.13",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
-    */
     "sites": [
         {
             "key": "Live",
-            "name": "📺┃电视直播源┃01┃矜持先森┃请点击主页直播按钮",
+            "name": "📺┃电视直播源┃02┃矜持先森┃请点击主页直播按钮",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
