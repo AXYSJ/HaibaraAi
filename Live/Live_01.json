@@ -3,7 +3,8 @@
     "warningText": "⚡欢迎使用矜持直播配置⚡",
     
   "lives": [
-      {    "name":"live",
+      {    
+          "name":"live",
           "type":0,
           "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
           "playerType":1,
