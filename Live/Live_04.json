@@ -1,0 +1,28 @@
+{
+    "spider": "https://raw.gitmirror.com/AXYSJ/HaibaraAi/main/Core/Jar",
+    "warningText": "⚡欢迎使用矜持直播配置⚡",
+    
+  "lives": [
+      {    
+          "name": "live",
+          "type":0,
+          "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+          "playerType": 1,
+          "ua":"okhttp/3.15",
+          "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+          "logo":"https://epg.112114.xyz/logo/{name}.png",
+          "timeout":10
+      }
+            ],
+    "sites": [
+        {
+            "key": "Live",
+            "name": "📺┃电视直播源┃04┃矜持先森┃请点击主页直播按钮",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        }
+          ]
+    }
