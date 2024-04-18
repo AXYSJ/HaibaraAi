@@ -24,7 +24,7 @@
         {"name":"👑┃肥猫２号","url":"http://我不是.肥猫.live/接口禁止贩卖"},
         {"name":"👑┃肥猫３号","url":"http://小白.love"},
         {"name":"👑┃小米┃XBPQ","url":"http://xhww.fun:63/小米/DEMO.json"},
-        {"name":"👑┃春盈天下","url":"https://wds.ecsxs.com/230989.json"},
+        //{"name":"👑┃春盈天下","url":"https://wds.ecsxs.com/230989.json"},
         {"name":"👑┃欧歌","url":"http://1.v.nxog.top/m"},
         {"name":"👑┃荷城茶秀１号","url":"http://rihou.vip:88/荷城茶秀"},
         {"name":"👑┃荷城茶秀２号","url":"http://rihou.vip:99/荷城茶秀"},
@@ -35,9 +35,9 @@
         {"name":"👑┃云星日记","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
         {"name":"👑┃好人","url":"https://100km.top/0"},
         {"name":"👑┃南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
-        {"name":"👑┃影迷","url":"https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt"},
+        //{"name":"👑┃影迷","url":"https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt"},
         {"name":"👑┃星辰","url":"http://8.210.232.168/xc.json"},
-        {"name":"👑┃Panda Groove","url":"https://agit.ai/leevi/PiG/raw/branch/master/jsm.json"},
+        //{"name":"👑┃Panda Groove","url":"https://agit.ai/leevi/PiG/raw/branch/master/jsm.json"},
         {"name":"👑┃运输车１号","url":"https://weixine.net/ysc.json"},
         {"name":"👑┃运输车２号","url":"https://cf.weixine.net/ysc.json"}
     ]
