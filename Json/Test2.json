@@ -1,7 +1,9 @@
 { "storeHouse":
     [
 
-    {"sourceName":"⚡矜持超级配置⚡","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/Config_01.json"}
+    {"sourceName":"⚡gitdl.cn⚡","sourceUrl":"https://gitdl.cn/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/Config_01.json"}
+    {"sourceName":"⚡gh.llkk.cc⚡","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/Config_01.json"}
+    {"sourceName":"⚡ghp.ci⚡","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/Config_01.json"}
 
     ]
 }
