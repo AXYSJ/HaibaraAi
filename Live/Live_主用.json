@@ -1,12 +1,12 @@
 {
-    "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/refs/heads/main/Core/Jar",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/refs/heads/main/Core/Jar",
     "warningText": "⚡欢迎使用矜持直播配置⚡",
     
   "lives": [
       {    
           "name": "live",
           "type":0,
-          "url":"https://gh.llkk.cc/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
+          "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
           "playerType": 1,
           "ua":"okhttp/3.15",
           "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
