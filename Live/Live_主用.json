@@ -1,11 +1,11 @@
 /*
 {
     "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/refs/heads/main/Core/Jar",
-    "warningText": "⚡欢迎使用矜持直播配置⚡",
+    "warningText": "⚡欢迎使用矜持Live配置⚡",
     
   "lives": [
       {    
-          "name": "📺┃电视直播源┃主用",
+          "name": "📺┃矜持Live源┃主用",
           "type":0,
           "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
           "playerType": 1,
@@ -18,7 +18,7 @@
     "sites": [
         {
             "key": "Live",
-            "name": "📺┃电视直播源┃主用┃矜持先森┃请去设置界面更改直播地址",
+            "name": "📺┃矜持Live源┃主用┃矜持先森┃请去设置界面更改Live地址",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
