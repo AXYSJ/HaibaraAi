@@ -1,11 +1,11 @@
 /*
 {
     "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/refs/heads/main/Core/Jar",
-    "warningText": "⚡欢迎使用矜持直播配置⚡",
+    "warningText": "⚡欢迎使用矜持Live配置⚡",
     "sites": [
         {
             "key": "Tips",
-            "name": "⚡┃矜持直播配置┃配置版本:5.0┃请切换其他线路┃⚡",
+            "name": "⚡┃矜持Live配置┃配置版本:5.0┃请切换其他线路┃⚡",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
