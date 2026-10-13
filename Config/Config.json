@@ -3,18 +3,18 @@
     [
          //开头公告类
         
-        {"name":"📢:请保持软件为最新版本","url":"https://ghfast.top/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
-        {"name":"📢:否则配置线路可能加载失败","url":"https://ghfast.top/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
-        {"name":"📢:请务必将缓存时长设置为０","url":"https://ghfast.top/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
-        {"name":"📢:如有线路失效请反馈","url":"https://ghfast.top/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
-        {"name":"🔁:线路状态全部正常✅","url":"https://ghfast.top/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
-        {"name":"⬇️⬇️⬇️请选择线路⬇️⬇️⬇️","url":"https://ghfast.top/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"}, 
+        {"name":"📢:请保持软件为最新版本","url":"https://gh-proxy.org/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
+        {"name":"📢:否则配置线路可能加载失败","url":"https://gh-proxy.org/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
+        {"name":"📢:请务必将缓存时长设置为０","url":"https://gh-proxy.org/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
+        {"name":"📢:如有线路失效请反馈","url":"https://gh-proxy.org/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
+        {"name":"🔁:线路状态全部正常✅","url":"https://gh-proxy.org/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"},
+        {"name":"⬇️⬇️⬇️请选择线路⬇️⬇️⬇️","url":"https://gh-proxy.org/https://raw.githubusercontent.com/AXYSJ/HaibaraAi/main/Config/ConfigTips.json"}, 
 
 
 
          //持续维护类
         {"name":"👑┃欧歌","url":"http://欧歌.v.nxog.top/m"},/*http://1.v.nxog.top/m*/
-        {"name":"👑┃小米","url":"https://ghfast.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"},
+        {"name":"👑┃小米","url":"https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"},
         {"name":"👑┃饭太硬１号","url":"http://www.饭太硬.cc/tv"},
         {"name":"👑┃饭太硬２号","url":"http://www.饭太硬.net/tv"},
         {"name":"👑┃饭太硬３号","url":"http://www.饭太硬.art/tv"},
@@ -37,7 +37,7 @@
         {"name":"👑┃摸鱼１号","url":"http://我不是.摸鱼儿.top"},
         {"name":"👑┃摸鱼２号","url":"http://www.小不点.top"},
         {"name":"👑┃摸鱼３号","url":"https://6800.kstore.vip/fish.json"},
-        {"name":"👑┃南风","url":"https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"}
+        {"name":"👑┃南风","url":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"}
 
 
     ]
